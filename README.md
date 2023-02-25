@@ -11,7 +11,7 @@ This application displays the list Countries and some information about them.
 
 This project is a challenge from Frontendmentor.io. I built this project to practise using Typescript with React. One of the challenges I encountered when building this application was typing the API fields in the Countries data. I couldn't get the correct type for every field of the data. So, I connected the data to my state and used it to correct the shape (type / interface) I created at the beginning. At the end of this project, I was more comfortable in using Typescript with react.
 
-- <img src='rest-countries.gif' alt='app preview' width='70%' />
+- <img src='rest-countries.mp4' alt='app-preview' />
 - [Application Code](https://github.com/yunusa-sanusi/countries-of-the-world)
 - [Live Preview]()
 
