@@ -14,8 +14,9 @@ This project is a challenge from Frontendmentor.io. I built this project to prac
 <div align='center'>
 - <img src='rest-countries.gif' alt='app-preview' width='70%' />
 </div>
+
 - [Application Code](https://github.com/yunusa-sanusi/countries-of-the-world)
-- [Live Preview]()
+- [Live Preview](https://net-countries.netlify.app/)
 
 ## How To Use
 
